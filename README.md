@@ -7,6 +7,12 @@ Script for setting up Nerd Fonts on your machine.
 ### Included Nerd Fonts
 - Jetbrains Mono
 
+### Use Nerd Fonts in your Terminal
+
+The following video might be of help: 
+
+[![Effective Nerd Fonts in Multiple Terminals](https://i.ytimg.com/vi/mQdB_kHyZn8/hqdefault.jpg)](https://youtu.be/DzNmUNvnB04?si=DV9qZ_wqu6z1dCwE)
+
 ### Quick Start
 
 ```bash
