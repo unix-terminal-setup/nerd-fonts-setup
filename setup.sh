@@ -7,7 +7,7 @@ temp_directory=/tmp/nerd-fonts-setup
 mkdir -p $temp_directory
 
 # Install unzip for extraction
-sudo apt install unzip
+sudo apt install -y unzip
 
 # Function for download and install of nerd font:
 function download() {
