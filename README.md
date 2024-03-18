@@ -18,3 +18,11 @@ The following video might be of help:
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nerd-fonts-setup/main/setup.sh | bash
 ```
+
+### Terminal Smoke Test 
+
+After updating your terminal's font to a nerd font you can run the below to do a quick smoke test:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nerd-fonts-setup/main/test/smoke-test.sh | bash
+```
