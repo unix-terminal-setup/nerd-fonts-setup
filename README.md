@@ -16,7 +16,7 @@ The following video might be of help:
 ### Quick Start
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nerd-fonts-setup/main/setup.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/nerd-fonts-setup/main/setup.sh | bash
 ```
 
 ### Terminal Smoke Test 
@@ -24,5 +24,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-ter
 After updating your terminal's font to a nerd font you can run the below to do a quick smoke test:
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/nerd-fonts-setup/main/test/smoke-test.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/nerd-fonts-setup/main/test/smoke-test.sh | bash
 ```
